@@ -23,7 +23,7 @@ A tener en cuenta:
 
 ## Dependencias
 
-- `datetime`
+- `datetime` nos permitirá trabajar con fechas.
 
 ## Uso
 
